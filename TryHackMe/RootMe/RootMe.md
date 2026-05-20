@@ -1,4 +1,4 @@
-# root-me-tryhackme-writeup
+# RootMe — TryHackMe Write-up
 
 1. LAB INFORMATION
 - **Room:** RootMe
@@ -62,7 +62,7 @@ During payload configuration i was able to change to my attacker ip address to i
 
  After uploading the reverse shell the website declined a php but we can introduce new file formats like bak, php5 using burpsuite
  
-![Burp Requests](screenshots/capturing-requests-burpsuit.png)
+![Burp Suite request capture](screenshots/capturing-requests-burpsuite.png)
 
  using burp proxy capture the request through intercept and send to intruder in burpsuit
 ![Payload Upload](screenshots/payload-upload.png)
