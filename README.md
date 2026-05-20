@@ -1,6 +1,7 @@
 # CYBERSECURITY-WRITEUPS
 
-Cybersecurity labs, CTF writeups, OWASP Top 10 exercises, and web security notes.
+Practical cybersecurity labs and writeups focused on penetration testing, privilege escalation, enumeration, exploitation techniques, and offensive security research.
+
 
 ## Contents
 
