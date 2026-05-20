@@ -79,7 +79,7 @@ we have successfully uploaded our reverse shells to the target
 Set a netcat listener on port 1234 
 command used: nc -nlvp 1234
 
-![Netcat Listener Flag](images/rootme/flag%20captured.png)
+![Netcat listener](images/rootme/netcat-listener.png)
 
  Now we have access as a normal user
  command used: find / -type f -name user.txt 2> /dev/null which means everything else is redirected to null
